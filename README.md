@@ -7,7 +7,7 @@
 |binary_insertion_sort |   |   |   |
 |bitonic_sort |   |   |   |
 |bogo_sort |   |   |   |
-|bubble_sort | \xE2\x9C\x85	WHITE HEAVY CHECK MARK  |   |   |
+|bubble_sort | &checkmark;  |   |   |
 |bucket_sort |   |   |   |
 |circle_sort |   |   |   |
 |cocktail_shaker_sort |   |   |   |
